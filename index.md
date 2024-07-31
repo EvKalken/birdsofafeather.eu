@@ -4,9 +4,6 @@ hero:
   name: Birds of a Feather
   text: Everything you need to know about traveling to the Republic of Georgia.
   tagline: Explore Georgia, Embrace Adventure
-  image: 
-    src: ./assets/tusheti-sunset-georgia.jpg 
-    alt: Mountainscape with sunset  
   actions:
     - theme: brand
       text: Travel Services

@@ -1,3 +1,8 @@
+---
+prev: 
+  text: 'How to Get Around Tbilisi' 
+  link: '/blog/georgia/tbilisi/how-to-get-around-tbilisi' 
+---
 # Best Day Trips from Tbilisi
 
 While Tbilisi has plenty to offer, there are many wonderful places just a short drive away that are perfect for day trips. Here are some of the best day trips from Tbilisi.

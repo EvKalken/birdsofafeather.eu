@@ -4,9 +4,6 @@ hero:
   name: Travel Blog
   text: Everything you need to know about traveling to the Republic of Georgia.
   tagline: Discover the Heart of the Caucasus
-  image: 
-    src: ../assets/alaverdi-monastery-georgia.jpg
-    alt: Georgian monastery in hilly landscape  
   actions:
     - theme: brand
       text: Travel Services
