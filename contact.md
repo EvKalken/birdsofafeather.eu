@@ -4,7 +4,7 @@ We'd love to get in touch with you if you have any questions, or would like more
 
 - Email us: [info@birdsofafeather.eu](mailto:info@birdsofafeather.eu)
 - WhatsApp: [Send us a message](https://wa.me/995591177101)
-- Follow us: [@birdsofafeathertravels](www.instagram.com/birdsofafeathertravels)
+- Follow us: [@birdsofafeathertravels](https://instagram.com/birdsofafeathertravels){target="_blank"}
 
 Or schedule a free discovery call below.
 

@@ -1,11 +1,11 @@
 # Birds of a Feather Travels
 
 ::: info Our Travel Services
-[We'll help you craft your ultimate Georgia trip](/our-travel-services) 
+[We'll help you craft your ultimate Georgia trip](/our-travel-services/) 
 ::: 
 
 ::: tip Blog
-[Explore our tips for the highlights of Georgia](/blog)
+[Explore our tips for the highlights of Georgia](/blog/)
 :::
 
 ::: warning WhatsApp

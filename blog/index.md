@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Travel Services
-      link: /our-travel-services
+      link: /our-travel-services/
     - theme: alt
       text: Contact
       link: /contact

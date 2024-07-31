@@ -10,14 +10,14 @@ hero:
   actions:
     - theme: brand
       text: Travel Services
-      link: /our-travel-services
+      link: /our-travel-services/
     - theme: alt
       text: Contact
       link: /contact
 features:
   - title: Premier Travel Planning Service
     details: Our Georgia travel planning services are here to design a personalized adventure just for you.
-    link: /our-travel-services
+    link: /our-travel-services/
   - title: Our 5 Step Process
     details: Find out more about how we create a custom trip for you.
     link: /our-travel-services/our-5-step-process

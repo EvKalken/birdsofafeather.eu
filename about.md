@@ -8,7 +8,7 @@ I've been living as a digital nomad for the past three years and traveled to man
 
 ## Custom Georgia Adventures
 
-Because it's still so off the beaten path, there's not as much information online as there is on other, more popular, destinations. That's where I come in. Living in Georgia, I have sampled the best things to do, places to visit, and practical tips and tricks (and continue to do so!). When you [travel with me](/our-travel-services), you won't have to worry about missing anything or researching endlessly online to find practical advice on how to get to places.
+Because it's still so off the beaten path, there's not as much information online as there is on other, more popular, destinations. That's where I come in. Living in Georgia, I have sampled the best things to do, places to visit, and practical tips and tricks (and continue to do so!). When you [travel with me](/our-travel-services/), you won't have to worry about missing anything or researching endlessly online to find practical advice on how to get to places.
 
 ## Group Trips
 
@@ -18,8 +18,8 @@ If you're looking for a fun and exciting trip with a group of travel friends, yo
 
 If you've gotten excited about Georgia, please have a look around on our website, or get in touch with us! Find some helpful links for navigating our website below:
 
-- [Read about Georgia on our blog](/blog)
-- [Read more about our travel services](/our-travel-services)
+- [Read about Georgia on our blog](/blog/)
+- [Read more about our travel services](/our-travel-services/)
 - Send us a WhatsApp message if you have any questions
 - Schedule a free discovery call to discuss whether Georgia is the right destination for you (no strings attached!)
 - Scroll through our FAQ for answers to specific questions
