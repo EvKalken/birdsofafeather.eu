@@ -34,7 +34,7 @@ Want to have a carefree trip and return with unforgettable stories? Our Georgia 
 
 Planning your next adventure can be overwhelming, especially when you want everything to be just right. That's where we come in. Here are the top reasons why a custom vacation to Georgia might be exactly what you need, along with a glimpse into our proven process for creating personalized itineraries.
 
-![Image](../../assets/custom-georgia-travel-tbilisi.jpg)
+![Image](../assets/custom-georgia-travel-tbilisi.jpg)
 
 ### 1. You Prefer Unique, Individual Experiences
 
