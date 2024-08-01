@@ -4,7 +4,7 @@ Traveling on a budget doesn't mean you have to miss out on the best experiences.
 
 ![affordable-tbilisi-night-out.jpg](../../../assets/affordable-tbilisi-night-out.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Attractions

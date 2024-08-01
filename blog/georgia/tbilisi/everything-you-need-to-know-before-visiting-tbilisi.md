@@ -4,7 +4,7 @@ If you're planning a trip to Tbilisi, the vibrant capital of Georgia, there are 
 
 ![Tbilisi](../../../assets/tbilisi-by-night-georgia.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Best Time to Visit Tbilisi

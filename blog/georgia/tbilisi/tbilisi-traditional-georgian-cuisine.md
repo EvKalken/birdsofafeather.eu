@@ -4,7 +4,7 @@ Tbilisi is a culinary paradise, offering a delightful blend of traditional Georg
 
 ![Georgian Cuisine](../../../assets/khachapuri-kinkhali-georgian-cuisine-landscape.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Khachapuri

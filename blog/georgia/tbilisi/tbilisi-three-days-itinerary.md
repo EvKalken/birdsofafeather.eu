@@ -4,7 +4,7 @@ Tbilisi, the enchanting capital of Georgia, is a city where ancient history meet
 
 ![Tbilisi River](../../../assets/tbilisi-river-georgia.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Day 1: Delve into Tbilisi’s Historical Heart

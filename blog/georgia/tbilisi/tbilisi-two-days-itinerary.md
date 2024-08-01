@@ -4,7 +4,7 @@ Tbilisi, Georgia's vibrant capital, is a city that seamlessly blends old-world c
 
 ![Holy Trinity Church Tbilisi](../../../assets/holy-trinity-church-tbilisi.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Day 1: Exploring the Heart of Tbilisi

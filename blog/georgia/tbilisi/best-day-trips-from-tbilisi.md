@@ -7,7 +7,7 @@ prev:
 
 While Tbilisi has plenty to offer, there are many wonderful places just a short drive away that are perfect for day trips. Here are some of the best day trips from Tbilisi.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Mtskheta

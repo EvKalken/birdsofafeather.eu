@@ -2,7 +2,7 @@
 
 While Tbilisi often steals the spotlight as Georgia’s vibrant capital, the country is dotted with other fascinating cities each offering their own unique charm and experiences. From historic landmarks and cultural treasures to natural beauty and local cuisine, these cities provide a deeper understanding of Georgia’s rich heritage. Let’s embark on a journey to discover the must-visit cities in Georgia beyond Tbilisi.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Kutaisi: A Gateway to History and Nature

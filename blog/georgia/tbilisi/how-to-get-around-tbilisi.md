@@ -2,7 +2,7 @@
 
 Navigating Tbilisi’s diverse neighborhoods and attractions is easy with various transportation options available. Here’s a guide to getting around the city efficiently.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Metro

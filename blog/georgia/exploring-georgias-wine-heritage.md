@@ -4,7 +4,7 @@ Georgia, nestled at the crossroads of Europe and Asia, is a country with a winem
 
 ![Vineyard](../../assets/kakheti-sunset-georgia-vineyard-wine.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## The Birthplace of Wine: A Historical Journey

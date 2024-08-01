@@ -4,7 +4,7 @@ Nestled between Europe and Asia, the country of Georgia remains an uncharted won
 
 ![Kazbegi](../../assets/kazbegi-gergeti-georgia.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## A Tapestry of Breathtaking Landscapes

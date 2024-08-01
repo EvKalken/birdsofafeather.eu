@@ -7,7 +7,7 @@ For those with a spirit of adventure and a love for the great outdoors, Georgia 
 <!--@include: @/affiliate-disclosure.md-->
 &nbsp;
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## The Tusheti Loop

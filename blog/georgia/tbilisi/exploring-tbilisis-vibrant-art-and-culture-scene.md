@@ -4,7 +4,7 @@ Tbilisi is a cultural melting pot, offering a diverse range of venues and events
 
 ![Fabrika](../../../assets/fabrika-tbilisi-people.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## What are the main cultural venues in Tbilisi?

@@ -2,7 +2,7 @@
 
 Kakheti, Georgia's premier wine region, is an unmissable destination for any traveler seeking a blend of history, culture, and natural beauty. Known as the birthplace of wine, Kakheti offers a rich tapestry of experiences that showcase its deep-rooted viticulture, stunning landscapes, and warm hospitality. Here are the top things to do in Kakheti:
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Explore Sighnaghi: The City of Love

@@ -2,7 +2,7 @@
 
 Tbilisi is full of well-known attractions, but it also has many hidden gems waiting to be discovered. Here are some lesser-known spots that offer a unique and memorable experience.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Chronicle of Georgia

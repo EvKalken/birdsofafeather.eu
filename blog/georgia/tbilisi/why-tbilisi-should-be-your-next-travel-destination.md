@@ -4,7 +4,7 @@ Nestled at the crossroads of Europe and Asia, Tbilisi, the vibrant capital of Ge
 
 ![Tbilisi](../../../assets/tbilisi-nighttime-overview.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## A Fusion of History and Modernity

@@ -4,6 +4,9 @@ If you’re a winter sports enthusiast looking for your next adventure, Georgia 
 
 ![Gudauri](../../assets/gudauri-5.jpg)
 
+::: warning Table of Contents
+[[toc]]
+:::
 ## Gudauri: The Crown Jewel of Georgian Ski Resorts
 
 Gudauri, located just a two-hour drive from Tbilisi, is the most famous ski resort in Georgia. With its high-altitude slopes and expansive ski terrain, Gudauri offers something for everyone. The resort boasts modern infrastructure, including ski lifts that can take you up to 3,276 meters. Gudauri is perfect for both beginners and advanced skiers, with gentle slopes for novices and off-piste opportunities for seasoned pros. The resort is also renowned for its freeriding and heli-skiing options, offering untouched powder and breathtaking views of the Caucasus range.

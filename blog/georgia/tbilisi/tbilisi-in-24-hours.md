@@ -2,7 +2,7 @@
 
 While you could easily spend weeks and months and years in Tbilisi without ever getting bored, it is possible to get a feel for the city and see its main highlights in just one day. From its rich history to its modern attractions,  the vibrant capital of Georgia offers a unique blend of old and new that can be experienced in just one day. Here’s a guide to make the most out of your 24 hours in Tbilisi.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Early Morning: Start with a Traditional Georgian Breakfast

@@ -4,7 +4,7 @@ Living in Tbilisi, I spent many days wandering around, and I'm here to share my 
 
 ![Tbilisi](../../../assets/tbilisi-old-town-georgia.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Explore the Old Town (Kala)

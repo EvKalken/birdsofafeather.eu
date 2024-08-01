@@ -2,7 +2,7 @@
 
 Tbilisi is a city steeped in history, with many ancient sites that tell the story of its past. Here are some must-visit historical sites that you shouldn’t miss.
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Narikala Fortress

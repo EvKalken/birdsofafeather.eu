@@ -4,7 +4,7 @@ Georgia, a country nestled between the Caucasus Mountains and the Black Sea, off
 
 ![Georgian Cuisine](../../assets/khachapuri-kinkhali-georgian-cuisine-landscape.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## The Heart of Georgian Cuisine: Supra

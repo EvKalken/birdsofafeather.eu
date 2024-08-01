@@ -2,7 +2,7 @@
 
 Kazbegi, located in the northern part of Georgia, is a region of awe-inspiring landscapes, majestic mountains, and rich cultural heritage. Whether you're an adventure seeker or a history buff, Kazbegi has something to offer. Here are the top things to do in Kazbegi:
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Visit the Gergeti Trinity Church

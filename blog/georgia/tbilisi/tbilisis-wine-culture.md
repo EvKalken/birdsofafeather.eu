@@ -4,7 +4,7 @@ Georgia is one of the oldest wine-producing regions in the world, and Tbilisi is
 
 ![Kakheti](../../../assets/kakheti-wine-region-georgia.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## A Brief History of Georgian Wine

@@ -4,7 +4,7 @@ Tbilisi's nightlife is as vibrant and diverse as the city itself. From trendy ba
 
 ![Nightlife Tbilisi](../../../assets/affordable-tbilisi-night-out.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Bars

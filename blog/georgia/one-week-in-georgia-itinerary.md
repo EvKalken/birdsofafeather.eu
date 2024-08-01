@@ -4,7 +4,7 @@ Georgia, a gem nestled in the heart of the Caucasus, offers a rich blend of hist
 
 ![Tbilisi Nighttime](../../assets/tbilisi-nighttime-overview.jpg)
 
-::: details Table of Contents
+::: warning Table of Contents
 [[toc]]
 :::
 ## Day 1: Arrival in Tbilisi
